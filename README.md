@@ -1,1 +1,1 @@
-Check out demo: https://github.com/ujuaku/STYLEDOM.git
+Check out demo:  https://ujuaku.github.io/STYLEDOM/
